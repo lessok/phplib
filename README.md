@@ -1,5 +1,5 @@
 # mvc
-php最简洁的mvc框架，为什么不需要复杂的框架呢？ 对于小网站东西少不需要，大型网站新浪腾讯使用框架加载一大堆文件又影响性能。
+lessok的意思就是少就是好! php最简洁的mvc框架，为什么不需要复杂的框架呢？ 对于小网站东西少不需要，大型网站新浪腾讯使用框架加载一大堆文件又影响性能。
 
 ## 安装
 
@@ -41,7 +41,7 @@ $ret = $db->rows("select * from user");
 ```php
 <?php
 require "../vendor/autoload.php";
-$http = lessok::getInstance();
+$http = \lessok\Http::getInstance();
 $url = "http://httpbin.org/ip";
 $ret = $http->request($url);
 ?>
