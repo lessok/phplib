@@ -1,5 +1,5 @@
 {
-    "name": "lessok/mvc",
+    "name": "lessok/phplib",
     "description": "simple php mvc framework",
     "type": "lessok-framework",
     "license": "Apache-2.0",
