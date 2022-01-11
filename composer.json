@@ -1,5 +1,5 @@
 {
-    "name": "lessok/phplib",
+    "name": "lessok/lib",
     "description": "php library",
     "type": "lessok-library",
     "license": "Apache-2.0",
