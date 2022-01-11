@@ -1,9 +1,9 @@
 # mvc
-lessok的意思就是少就是好! php最简洁的mvc框架，为什么不需要复杂的框架呢？ 对于小网站东西少不需要，大型网站新浪腾讯使用框架加载一大堆文件又影响性能。
+lessok的意思就是少就是好! php最简洁的操作类。
 
 ## 安装
 
-> composer require lessok/mvc
+> composer require lessok/phplib
 
 ### db类使用教程
 
