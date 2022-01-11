@@ -3,7 +3,7 @@ lessok的意思就是少就是好! php最简洁的操作类。
 
 ## 安装
 
-> composer require lessok/phplib
+> composer require lessok/lib
 
 ### db类使用教程
 
