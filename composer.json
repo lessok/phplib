@@ -1,7 +1,7 @@
 {
     "name": "lessok/phplib",
-    "description": "simple php mvc framework",
-    "type": "lessok-framework",
+    "description": "php library",
+    "type": "lessok-library",
     "license": "Apache-2.0",
     "authors": [
         {
